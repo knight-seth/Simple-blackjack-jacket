@@ -1,4 +1,4 @@
-♠ Blackjack Simulator ♥️
+ Blackjack Simulator 
 
 A simple command-line Blackjack game written in C++.
 
